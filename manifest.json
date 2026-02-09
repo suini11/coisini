@@ -1,0 +1,21 @@
+{
+  "name": "coisini",
+  "short_name": "coisini",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "聊天应用",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/sXPpGrDk/1040g3k031pdrtbodiu1043o063svcc931q7obdo-nd-dft-wlteh-jpg-3.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/sXPpGrDk/1040g3k031pdrtbodiu1043o063svcc931q7obdo-nd-dft-wlteh-jpg-3.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
